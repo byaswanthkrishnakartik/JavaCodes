@@ -1,4 +1,3 @@
-package week1;
 import java.util.*;
 
 abstract class automobile
