@@ -10,7 +10,7 @@
        n=n/10;    
       }    
       if(temp==sum)    
-       System.out.println("palindrome number ");    
+       System.out.println("454 palindrome number ");    
       else    
        System.out.println("not palindrome");    
     }  
